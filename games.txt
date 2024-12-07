@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NozerHub/Avatar-Fighting-Simulator/refs/heads/main/BestScript.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NozerHub/Legends-battlegrounds/refs/heads/main/BestScript.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NozerHub/Project-smash/refs/heads/main/BestScript.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NozerHub/Reborn-As-Swordsman/refs/heads/main/Bestscript.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NozerHub/Anime-Maniac-Simulator/refs/heads/main/Bestscript.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NozerHub/Eat-The-World/refs/heads/main/Bestscript%20(2).txt"))()
